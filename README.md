@@ -1,6 +1,6 @@
 # vue_calculator
 
-> A Vue.js project
+用vue框架实现的一个计时器，可基本完成正计时、倒计时、清空、重新计时、暂停等功能
 
 ## Build Setup
 
